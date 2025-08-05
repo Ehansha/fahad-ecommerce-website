@@ -1,17 +1,17 @@
-# Fahad - An eCommerce Website
+# Zaka - An eCommerce Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/fahad-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/fahad-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/fahad-ecommerce-website?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/zaka-ecommerce-website)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/zaka-ecommerce-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/zaka-ecommerce-website?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
 [![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
 
-Fahad is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+Zaka is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-![fahad Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Fahad Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Zaka Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Zaka Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Prerequisites
 
@@ -19,20 +19,20 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing Fahad
+## Installing Zaka
 
-To install **Fahad**, follow these steps:
+To install **Zaka**, follow these steps:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/fahad-ecommerce-website.git
+sudo git clone https://github.com/codewithsadee/zaka-ecommerce-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/fahad-ecommerce-website.git
+git clone https://github.com/codewithsadee/zaka-ecommerce-website.git
 ```
 
 ## Contact
